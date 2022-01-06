@@ -1,3 +1,6 @@
+# Pair-Programming Assignment
+# Partners: Valeriy Nehovora, Hatem Rakkad
+
 class Question
   def initialize
     @value1 = rand(1..20)

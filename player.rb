@@ -1,3 +1,6 @@
+# Pair-Programming Assignment
+# Partners: Valeriy Nehovora, Hatem Rakkad
+
 class Player
   attr_reader :name, :score
 

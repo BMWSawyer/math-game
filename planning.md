@@ -1,3 +1,6 @@
+Pair-Programming Assignment
+Partners: Valeriy Nehovora, Hatem Rakkad
+
 Main file
   - Instantiate new game
   - Call the game.start method
