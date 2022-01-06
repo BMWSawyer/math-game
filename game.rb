@@ -5,8 +5,8 @@ class Game
   def initialize
     @player1 = Player.new('Player1')
     @player2 = Player.new('Player2')
-    @players = [@player1, @player2]    
-    @turn = 1 
+    @players = [@player1, @player2] 
+    @turn = 1
   end
 
   def start
